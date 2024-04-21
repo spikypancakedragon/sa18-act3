@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "waffles",
+            "price": 100,
+            "description": "they are waffles yes"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "syrup",
+            "price": 20,
+            "description": "syrup for the waffles"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3 ,
+        "fields": {
+            "name": "peanut butter",
+            "price": 50,
+            "description": "put it on the waffles"
+        }
+    }
+]
